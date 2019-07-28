@@ -1,20 +1,20 @@
 # LEARNING APP
 
-## [INTRODUCTION](#introduction)
+- ### [INTRODUCTION](#introduction-1)
 
-## [PREREQUISITES](#prerequisites)
+- ### [PREREQUISITES](#prerequisites-1)
 
-## [GETTING STARTED](#getting-started)
+- ### [GETTING STARTED](#getting-started-1)
 
-## [EXPO REPOSITORY](#expo-repo)
+- ### [EXPO REPOSITORY](#expo-repository-1)
 
-## [PROPOSED ROADMAP](#proposed-roadmap)
+- ### [PROPOSED ROADMAP](#proposed-roadmap-1)
 
 ### INTRODUCTION
 
 A react-native software built on [expo](https://expo.io). This serves as a sort of starting template for a functional software where students can access learning materials and also take practice questions on the subjects
 
-![Learning App](<https://res.cloudinary.com/dservbsgp/image/upload/v1564311031/my-images/Screenrecorder-2019-07-28-11-19-_pq9ey6.gif> =240x)
+![Learning App](https://res.cloudinary.com/dservbsgp/image/upload/v1564311031/my-images/Screenrecorder-2019-07-28-11-19-_pq9ey6.gif =240x)
 
 ### PREREQUISITES
 
