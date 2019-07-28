@@ -1,0 +1,202 @@
+[
+  {
+    "questions": "_________ is the discharge of material in the environment that may cause harm to health?",
+    "options":[
+      "Walking",
+      "Running",
+      "Eating",
+      "Pollution"
+    ], 
+    "answer": "Pollution"
+  },
+  {
+  "questions": "All these are types of pollution except _________",
+  "options": [
+    "Water",
+    "Air",
+    "Rain",
+    "Land"
+    ], 
+    "answer": "Rain"
+  },
+  {
+    "questions": "_________ is the discharge of unpleasant materials into water that affects organisms in it and humans that takes it?",
+    "options": [
+      "Air pollution",
+      "Water pollution",
+      "Noise pollution",
+      "Light pollution"
+    ], 
+    "answer": "Water pollution"
+  },
+  {
+    "questions": "There are _________ main types of pollution.",
+    "options": [
+      "Four",
+      "Six",
+      "Seven",
+      "Two"
+    ], 
+    "answer": "Four"
+  },
+  {
+    "questions": "Water pollutants can be grouped under how many types?",
+    "options": [
+      "Six",
+      "Four",
+      "Three",
+      "Two"
+    ], 
+    "answer": "Two"
+  },
+  {
+    "questions": "Water pollutants are all these except",
+    "options": [
+      "Oil",
+      "Sewage",
+      "Stones",
+      "Oxygen"
+    ], 
+    "answer": "Oxygen"
+  },
+  {
+    "questions": "_________ is the dumping of refuse or discharge of waste on the improperly?",
+    "options": [
+      "Water pollution",
+      "Noise pollution",
+      "Land pollution",
+      "Light pollution"
+    ], 
+    "answer": "Land pollution"
+  },
+  {
+    "questions": "_________ is the discharge of substances into the atmosphere?",
+    "options": [
+      "Land pollution",
+      "Soil pollution",
+      "Air pollution",
+      "Noise pollution"
+    ], 
+    "answer": "Air pollution"
+  },
+  {
+    "questions": "Air pollutants can be in how many forms?",
+    "options": [
+      "Four",
+      "Six",
+      "Five",
+      "Three"
+    ], 
+    "answer": "Three"
+  },
+  {
+    "questions": "There are _________ major types of air pollutants.",
+    "options": [
+      "Seven",
+      "Six",
+      "Five",
+      "Nine"
+    ], 
+    "answer": "Six"
+  },
+  {
+    "questions": "All these are the major types of air pollutants except _________?",
+    "options": [
+      "Carbon monoxide",
+      "Chemicals",
+      "Hydrocarbons",
+      "Nitrogen oxides"
+    ], 
+    "answer": "Chemicals"
+  },
+  {
+    "questions": "All these are the major sources of pollution except _________?",
+    "options": [
+      "Fetching water",
+      "Power",
+      "Heat generation",
+      "Burning of solid waste"
+    ], 
+    "answer": "Fetching water"
+  },
+  {
+    "questions": "_________ Is the discharge of unpleasant sounds to the ear?",
+    "options": [
+      "Air pollution",
+      "Noise pollution",
+      "Land pollution",
+      "Water pollution"
+    ], 
+    "answer": "Noise pollution"
+  },
+  {
+    "questions": "_________ are substances that causes harm to the society.",
+    "options": [
+      "Water",
+      "Toilets",
+      "Oxygen",
+      "Pollutants"
+    ], 
+    "answer": "Pollutants"
+  },
+  {
+    "questions": "_________ is the removal of top layer of the soil?",
+    "options": [
+      "Oxygen",
+      "Water",
+      "Soil erosion",
+      "Planting"
+    ], 
+    "answer": "Soil erosion"
+  },
+  {
+    "questions": "Soil misuse causes one of the following?",
+    "options": [
+      "Cultivation",
+      "Wood cutting",
+      "Manufacturing",
+      "Land pollution"
+    ], 
+    "answer": "Land pollution"
+  },
+  {
+    "questions": "Discharge of smoke into the air causes _________",
+    "options": [
+      "Land pollution",
+      "Air pollution",
+      "Water pollution ",
+      "Light pollution"
+    ], 
+    "answer": "Air pollution"
+  },
+  {
+    "questions": "Discharge of sewage into rivers causes _________",
+    "options": [
+      "Water pollution",
+      "Land pollution",
+      "Air pollution",
+      "Light pollution"
+    ], 
+    "answer": "Water pollution"
+  },
+  {
+    "questions": "Nitrates and phosphates that causes over fertilization causes _________",
+    "options": [
+      "Noise pollution",
+      "Air pollution",
+      "Light pollution",
+      "Water pollution"
+    ], 
+    "answer": "Water pollution"
+  },
+  {
+    "questions": "Pollution affects all except?",
+    "options": [
+      "Land",
+      "Water",
+      "knife",
+      "air"
+    ], 
+    "answer": "knife"
+  }
+]

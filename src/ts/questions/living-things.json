@@ -1,0 +1,202 @@
+[
+  {
+    "questions": "All these are examples of living things except……",
+    "options":[
+      "Dog",
+      "Wood",
+      "Man",
+      "Tree"
+    ], 
+    "answer": "Wood"
+  },
+  {
+    "questions": "All these are characteristics of living things except……",
+    "options":[
+      "Talking",
+      "Growth",
+      "Respiration",
+      "Nutrition"
+    ], 
+    "answer": "Talking"
+  },
+  {
+    "questions": "Reproduction is the ability to produce……",
+    "options":[
+      "Wealth",
+      "Money",
+      "Food",
+      "Offspring"
+    ], 
+    "answer": "Offspring"
+  },
+  {
+    "questions": "Responding to stimuli is of which of these characteristics of living things?",
+    "options":[
+      "Excretion",
+      "Sensitivity",
+      "Respiration",
+      "Growth"
+    ], 
+    "answer": "Sensitivity"
+  },
+  {
+    "questions": "All these are examples of non-living things except _______",
+    "options":[
+      "Cat",
+      "Bucket",
+      "Wood",
+      "Bag"
+    ], 
+    "answer": "Cat"
+  },
+  {
+    "questions": "Growth is the permanent increase in cell number and _______",
+    "options":[
+      "Size",
+      "Mind",
+      "Skin",
+      "Heart"
+    ], 
+    "answer": "Size"
+  },
+  {
+    "questions": "All these experience growth except _______",
+    "options":[
+      "Bucket",
+      "Baby",
+      "Plants",
+      "Man"
+    ], 
+    "answer": "Bucket"
+  },
+  {
+    "questions": "How many systems of classification of organisms do we have?",
+    "options":[
+      "Three",
+      "Two",
+      "Six",
+      "Four"
+    ], 
+    "answer": "Two"
+  },
+  {
+    "questions": "How many ideas of natural classification of organism do we have?",
+    "options":[
+      "Three",
+      "Six",
+      "Four",
+      "Two"
+    ], 
+    "answer": "Two"
+  },
+  {
+    "questions": "_______ is the process by which organisms obtain energy and raw materials from food nutrients.",
+    "options":[
+      "Movement",
+      "Reproduction",
+      "Respiration",
+      "Nutrition"
+    ], 
+    "answer": "Nutrition"
+  },
+  {
+    "questions": "All these are examples of food nutrients except _______",
+    "options":[
+      "Protein",
+      "Vitamins",
+      "Carbohydrates",
+      "Gas"
+    ], 
+    "answer": "Gas"
+  },
+  {
+    "questions": "Movement occurs in all except _______",
+    "options":[
+      "Wood",
+      "Cats",
+      "Plants",
+      "Dogs"
+    ], 
+    "answer": "Wood"
+  },
+  {
+    "questions": "_______ is the removal of waste products from the body.",
+    "options":[
+      "Respiration",
+      "Growth",
+      "Movement",
+      "Excretion"
+    ], 
+    "answer": "Excretion"
+  },
+  {
+    "questions": "Growth involves using food to produce _______",
+    "options":[
+      "Wealth",
+      "Money",
+      "Success",
+      "New cells"
+    ], 
+    "answer": "New cells"
+  },
+  {
+    "questions": "The largest group in which living organisms are put is _______",
+    "options":[
+      "Kingdom",
+      "Family",
+      "Order",
+      "Phylum"
+    ], 
+    "answer": "Kingdom"
+  },
+  {
+    "questions": "Kingdom are divided into smaller groups called _______",
+    "options":[
+      "Phyla",
+      "Species",
+      "Order",
+      "Family"
+    ], 
+    "answer": "Phyla"
+  },
+  {
+    "questions": "All these does not grow except _______",
+    "options":[
+      "Bag",
+      "Baby",
+      "Bucket",
+      "Gas"
+    ], 
+    "answer": "Baby"
+  },
+  {
+    "questions": "All these does not perform excretion except _______",
+    "options":[
+      "Bird",
+      "Bucket",
+      "Wood",
+      "Cloth"
+    ], 
+    "answer": "Bird"
+  },
+  {
+    "questions": "Nutrition occurs in all except _______",
+    "options":[
+      "Animal",
+      "Man",
+      "Wood",
+      "Plant"
+    ], 
+    "answer": "Wood"
+  },
+  {
+    "questions": "Reproduction occurs in all except _______",
+    "options":[
+      "Man",
+      "Cat",
+      "Dog",
+      "Fan"
+    ], 
+    "answer": "Fan"
+  }
+]

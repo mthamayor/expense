@@ -1,0 +1,202 @@
+[
+  {
+    "questions": "_________ produces hydrogen ion(H+) as the only positive ion",
+    "options":[
+      "Base",
+      "Salts",
+      "Alkaline",
+      "Acid"
+    ], 
+    "answer": "Acid"
+  },
+  {
+  "questions": "_________ are corrosive when concentrated",
+  "options": [
+    "Salt",
+    "Alkaline",
+    "Water",
+    "Acids"
+    ], 
+    "answer": "Acids"
+  },
+  {
+    "questions": "_________ produces hydroxide as the only negative ion",
+    "options": [
+      "Salt",
+      "Alkaline",
+      "Acids",
+      "Base"
+    ], 
+    "answer": "Base"
+  },
+  {
+    "questions": "_________ generally has a sour taste",
+    "options": [
+      "Orange",
+      "Mango",
+      "Base",
+      "Acids"
+    ], 
+    "answer": "Acids"
+  },
+  {
+    "questions": "All these are natural acids except?",
+    "options": [
+      "Amino acids",
+      "Ascorbic acids",
+      "Fatty acids",
+      "Alkaline"
+    ], 
+    "answer": "Alkaline"
+  },
+  {
+    "questions": "_________ turns blue litmus paper red",
+    "options": [
+      "Base",
+      "Salt",
+      "Water",
+      "Acid"
+    ], 
+    "answer": "Acid"
+  },
+  {
+    "questions": "_________ turns red litmus paper blue?",
+    "options": [
+      "Salt",
+      "Water",
+      "Base",
+      "Acid"
+    ], 
+    "answer": "Base"
+  },
+  {
+    "questions": "_________ neutralizes acids",
+    "options": [
+      "Base",
+      "Water",
+      "Salt",
+      "Alkaline"
+    ], 
+    "answer": "Base"
+  },
+  {
+    "questions": "The reaction whereby a base reacts with an acid to produce salt and water only is called _______",
+    "options": [
+      "Acidity",
+      "Solubility",
+      "Alkalinity",
+      "Neutralization"
+    ], 
+    "answer": "Neutralization"
+  },
+  {
+    "questions": "All these are examples of bases except _________",
+    "options": [
+      "Water",
+      "Potassium hydroxide",
+      "Sodium hydroxide",
+      "Calcium hydroxide"
+    ], 
+    "answer": "Water"
+  },
+  {
+    "questions": "_________ are commonly used in homes as cleaning agent?",
+    "options": [
+      "Acid",
+      "Salt",
+      "Base",
+      "Water"
+    ], 
+    "answer": "Base"
+  },
+  {
+    "questions": "_________ are useful additives to food?",
+    "options": [
+      "Acids",
+      "Bases",
+      "Alkaline",
+      "Salt"
+    ], 
+    "answer": "Salt"
+  },
+  {
+    "questions": "_________ is a scale which shows the degree of alkalinity and acidity?",
+    "options": [
+      "Basic scale",
+      "Acid scale",
+      "pH scale",
+      "Salt scale"
+    ], 
+    "answer": "pH scale"
+  },
+  {
+    "questions": "_________  are used manufacturing fertilizers and explosives.",
+    "options": [
+      "Oil",
+      "Base",
+      "Salt",
+      "Acids"
+    ], 
+    "answer": "Acids"
+  },
+  {
+    "questions": "_________ are bases that are soluble in water.",
+    "options": [
+      "Salt",
+      "Acids",
+      "Chemical",
+      "Alkalis"
+    ], 
+    "answer": "Alkalis"
+  },
+  {
+    "questions": "_______ Is defined as a compound which consists of a positive metallic ion and negative non-metallic ion.",
+    "options": [
+      "Salt",
+      "Alkalis",
+      "Neutral",
+      "Acid"
+    ], 
+    "answer": "Salt"
+  },
+  {
+    "questions": "_______ is the combination of two or more substances.",
+    "options": [
+      "Elements",
+      "Acids",
+      "Compound",
+      "Atoms"
+    ], 
+    "answer": "Compound"
+  },
+  {
+    "questions": "_________ is neutral to litmus.",
+    "options": [
+      "Water",
+      "Base",
+      "Salt",
+      "Acids"
+    ], 
+    "answer": "Water"
+  },
+  {
+    "questions": "_________ is the product of neutralization?",
+    "options": [
+      "Acids",
+      "Base",
+      "Alkaline",
+      "Salt"
+    ], 
+    "answer": "Salt"
+  },
+  {
+    "questions": "_______ have a soapy or slippery feel.",
+    "options": [
+      "Salt",
+      "Base",
+      "Sand",
+      "Acid"
+    ], 
+    "answer": "Base"
+  }
+]
